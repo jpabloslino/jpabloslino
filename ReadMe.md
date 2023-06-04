@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  💁‍♂️ Sobre Mim:
 Estudante de Sistemas de Informação na UEMG Passos<br>Estou estudando Front-end<br>Futuro Desenvolvedor WEB<br>Apaixonado por computação
 
 
